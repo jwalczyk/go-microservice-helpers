@@ -1,4 +1,5 @@
 # Go-Microservice-Helpers
+[![Go Report Card](https://goreportcard.com/badge/github.com/jwalczyk/go-microservice-helpers)](https://goreportcard.com/report/github.com/jwalczyk/go-microservice-helpers)
 
 **This is not an official Google product**
 
